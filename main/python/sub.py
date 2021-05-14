@@ -1,5 +1,4 @@
 from Client import Client
-from pexpect import pxssh
 import led_off
 
 
