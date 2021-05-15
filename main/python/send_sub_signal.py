@@ -2,7 +2,7 @@ from gpiozero import Button
 from Client import Client
 import time
 
-button = Button(2)
+button = Button(GPIO_PIN_BUTTON)
 
 SERVER_IP = "http://192.168.x.xxx/"
 
