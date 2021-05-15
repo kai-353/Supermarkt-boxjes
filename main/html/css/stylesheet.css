@@ -1,0 +1,13 @@
+html {
+  height: 820px;
+  background-image: linear-gradient(#c6f2f3, #b5f5e2, #c6f2f3);
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
