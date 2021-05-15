@@ -4,7 +4,9 @@ import time
 
 button = Button(2)
 
-client = Client("http://192.168.4.1/")
+SERVER_IP = "http://192.168.x.xxx/"
+
+client = Client(SERVER_IP)
 
 
 def send_add_signal():
