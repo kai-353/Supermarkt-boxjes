@@ -16,9 +16,6 @@ require_once "config.php";
 <body>
     <main>
         <div>
-
-
-            bedankt voor het bezoeken van onze winkel.
             </br>
             <?php
 
@@ -27,13 +24,10 @@ require_once "config.php";
 
             while ($row = $result->fetch_array()) {
                 $nummer = $row['aantal'];
-                echo "Er zijn nu " . $nummer . " andere mensen in de winkel,";
+                echo "Bedankt voor het bezoeken van onze winkel. Er zijn nu " . $nummer . " andere mensen in de winkel, vergeet u zometeen niet uit te scannen!";
             }
-
-
             ?>
             </br>
-            vergeet u zometeen niet uit te scannen!
         </div>
     </main>
 </body>
