@@ -15,12 +15,8 @@ require_once "config.php";
 
 <body>
   <main>
-    <div>
-	
-	
-sorry u moet even wachten er zijn nog teveel mensen in de winkel als het lampje blauw word kan u opnieuw de qr code scannen
-
-
+    <div>	
+	Sorry u moet even wachten, er zijn nog teveel mensen in de winkel. Als het lampje blauw wordt kan u opnieuw de qr code scannen.
     </div>
   </main>
 </body>
