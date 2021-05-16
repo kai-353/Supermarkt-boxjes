@@ -16,11 +16,7 @@ require_once "config.php";
 <body>
   <main>
     <div>
-	
-	
-bedankt voor uw bezoek aan de supermakt hopenlijk tot snel
-
-
+	bedankt voor uw bezoek aan de supermarkt hopelijk tot snel.
     </div>
   </main>
 </body>
