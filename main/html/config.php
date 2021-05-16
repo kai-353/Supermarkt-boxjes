@@ -1,8 +1,8 @@
 <?php
 $servername   = "localhost";
 $database = "database";
-$username = "root";
-$password = "raspberry";
+$username = "xxx";
+$password = "xxx";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $database);
